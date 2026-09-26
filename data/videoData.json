@@ -16,23 +16,5 @@
     "category": "Shorts/Tiktok/Reels",
     "videoPath": "https://youtube.com/shorts/PMaErURiiTI?feature=share",
     "order": 3
-  },
-  {
-    "name": "REELS",
-    "category": "Shorts/Tiktok/Reels",
-    "videoPath": "https://youtube.com/shorts/4e8TXmQUJRo?feature=share",
-    "order": 4
-   },
-  {
-    "name": "REELS",
-    "category": "Shorts/Tiktok/Reels",
-    "videoPath": "https://youtube.com/shorts/iJxQXAY-xfA?feature=share",
-    "order": 5
-  },  
-   {
-    "name": "REELS",
-    "category": "Shorts/Tiktok/Reels",
-    "videoPath": "https://youtube.com/shorts/WZyCXr0tI9s?feature=share",
-    "order": 6
   }
 ]
