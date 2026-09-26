@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Reels",
+    "category": "Shorts/Tiktok/Reels",
+    "videoPath": "https://youtube.com/shorts/Th6ESc369Uk?feature=share",
+    "order": 1
+  },
+  {
+    "name": "Reels",
+    "category": "Shorts/Tiktok/Reels",
+    "videoPath": "https://youtube.com/shorts/7tWnTooViyo?feature=share",
+    "order": 2
+  },
+  {
+    "name": "Reels",
+    "category": "Моушн",
+    "videoPath": "https://youtube.com/shorts/PMaErURiiTI?feature=share",
+    "order": 3
+  }
+]
