@@ -16,5 +16,11 @@
     "category": "Моушн",
     "videoPath": "https://youtube.com/shorts/PMaErURiiTI?feature=share",
     "order": 3
+  },
+  {
+    "name": "REELS",
+    "category": "Shorts/Tiktok/Reels",
+    "videoPath": "https://youtube.com/shorts/4e8TXmQUJRo?feature=share",
+    "order": 5
   }
 ]
