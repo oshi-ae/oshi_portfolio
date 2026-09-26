@@ -34,11 +34,5 @@
     "category": "Shorts/Tiktok/Reels",
     "videoPath": "https://youtube.com/shorts/WZyCXr0tI9s?feature=share",
     "order": 6
-  },  
-  {
-    "name": "REELS",
-    "category": "Shorts/Tiktok/Reels",
-    "videoPath": "https://youtube.com/shorts/nruDTWTYLDM?feature=share",
-    "order": 7
   }
 ]
