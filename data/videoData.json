@@ -13,8 +13,38 @@
   },
   {
     "name": "Reels",
-    "category": "Моушн",
+    "category": "Shorts/Tiktok/Reels",
     "videoPath": "https://youtube.com/shorts/PMaErURiiTI?feature=share",
     "order": 3
-  }
+  },
+   {
+    "name": "Reels",
+    "category": "Shorts/Tiktok/Reels",
+    "videoPath": "https://youtube.com/shorts/iJxQXAY-xfA?feature=share",
+    "order": 4
+  },
+   {
+    "name": "Reels",
+    "category": "Shorts/Tiktok/Reels",
+    "videoPath": "https://youtube.com/shorts/4e8TXmQUJRo?feature=share",
+    "order": 5
+  },
+    {
+    "name": "Reels",
+    "category": "Shorts/Tiktok/Reels",
+    "videoPath": "https://youtube.com/shorts/WZyCXr0tI9s?feature=share",
+    "order": 6
+  },
+   {
+    "name": "Reels",
+    "category": "Shorts/Tiktok/Reels",
+    "videoPath": "https://youtube.com/shorts/jSKnvvQFPTQ?feature=share",
+    "order": 7
+  },
+  {
+    "name": "Reels",
+    "category": "Shorts/Tiktok/Reels",
+    "videoPath": "https://youtube.com/shorts/3M_2WmK2v4c?feature=share",
+    "order": 8
+  },
 ]
