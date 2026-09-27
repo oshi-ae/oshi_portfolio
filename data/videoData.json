@@ -47,5 +47,17 @@
     "category": "Shorts/Tiktok/Reels",
     "videoPath": "https://youtube.com/shorts/3M_2WmK2v4c?feature=share",
     "order": 8
+  },
+  {
+    "name": "Motion",
+    "category": "Моушн",
+    "videoPath": "https://youtu.be/bPsj1M8UfOI",
+    "order": 1
+  },
+  {
+    "name": "Motion",
+    "category": "Моушн",
+    "videoPath": "https://youtu.be/DSrsTnHq8JY",
+    "order": 2
   }
 ]
